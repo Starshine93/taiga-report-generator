@@ -18,8 +18,4 @@ Report includes:
 - HOST=your_url_to_Taiga
 - USERNAME=taiga_username
 - PASSWD_TAIGA=taiga_password
-3) Run script and get output to directory you strated your script
-
-
-
-
+3) Run script and get output to directory where from you strated your script
